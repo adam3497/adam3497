@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=adam3497&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adam3497&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adam3497&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
